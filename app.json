@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "ICT Trading Monitor",
+    "slug": "ict-trading-monitor",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0A0E1A"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.yourname.ictmonitor"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0A0E1A"
+      },
+      "package": "com.yourname.ictmonitor"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "ictmonitor",
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "f6bde73a-ee49-4596-8930-1090003d82c6"
+      }
+    }
+  }
+}
