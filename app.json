@@ -1,35 +1,52 @@
 {
-  "expo": {
-    "name": "ICT Trading Monitor",
-    "slug": "ict-trading-monitor",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "dark",
-    "splash": {
-      "backgroundColor": "#0A0E1A"
+  "cli": {
+    "version": ">= 10.0.0"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
     },
-    "ios": {
-      "supportsTablet": false,
-      "bundleIdentifier": "com.yourname.ictmonitor"
-    },
-    "android": {
-      "adaptiveIcon": {
-        "backgroundColor": "#0A0E1A"
+    "preview": {
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
       },
-      "package": "com.yourname.ictmonitor"
-    },
-    "plugins": [
-      "expo-router"
-    ],
-    "scheme": "ictmonitor",
-    "experiments": {
-      "typedRoutes": true
-    },
-    "extra": {
-      "router": {},
-      "eas": {
-        "projectId": "f6bde73a-ee49-4596-8930-1090003d82c6"
+      "ios": {
+        "simulator": false
       }
+    },
+    "production": {
+      "android": {
+        "buildType": "app-bundle",
+        "gradleCommand": ":app:bundleRelease"
+      },
+      "ios": {
+        "credentialsSource": "remote"
+      }
+    }
+  },
+  "submit": {
+    "production": {
+      "android": {
+        "serviceAccountKeyPath": "./google-service-account.json",
+        "track": "production"
+      },
+      "ios": {
+        "appleId": "YOUR_APPLE_ID_EMAIL",
+        "ascAppId": "YOUR_APP_STORE_CONNECT_APP_ID",
+        "appleTeamId": "YOUR_APPLE_TEAM_ID"
+      }
+    }
+  },
+  "extra": {
+    "eas": {
+      "projectId": "fc6db3d9-6abc-4340-ba2b-aaeb39cb8027"
+    }
+  },
+  "expo": {
+    "android": {
+      "package": "com.boxdax.tsetsie"
     }
   }
 }
