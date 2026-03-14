@@ -1,0 +1,101 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" rx="180" fill="#0A0E1A"/>
+  <circle cx="512" cy="460" r="420" fill="#0D1220"/>
+  <circle cx="512" cy="460" r="420" fill="none" stroke="#00D4AA" stroke-width="6"/>
+  <circle cx="512" cy="460" r="395" fill="none" stroke="#C9A84C" stroke-width="2" stroke-dasharray="14 8"/>
+  <!-- Crosshairs -->
+  <line x1="60" y1="460" x2="340" y2="460" stroke="#00D4AA" stroke-width="3" opacity="0.5"/>
+  <line x1="684" y1="460" x2="964" y2="460" stroke="#00D4AA" stroke-width="3" opacity="0.5"/>
+  <line x1="512" y1="80" x2="512" y2="270" stroke="#00D4AA" stroke-width="3" opacity="0.5"/>
+  <line x1="512" y1="600" x2="512" y2="720" stroke="#00D4AA" stroke-width="3" opacity="0.5"/>
+  <circle cx="512" cy="460" r="170" fill="none" stroke="#00D4AA" stroke-width="2" opacity="0.3"/>
+  <!-- Neck -->
+  <rect x="462" y="400" width="100" height="50" rx="8" fill="#1C2340" stroke="#00D4AA" stroke-width="3"/>
+  <!-- Head -->
+  <rect x="362" y="210" width="300" height="200" rx="28" fill="#1C2340" stroke="#00D4AA" stroke-width="5"/>
+  <!-- Antenna -->
+  <rect x="498" y="158" width="28" height="58" rx="8" fill="#00D4AA" opacity="0.9"/>
+  <circle cx="512" cy="148" r="22" fill="#C9A84C"/>
+  <circle cx="512" cy="148" r="12" fill="#FF4444"/>
+  <!-- Ear panels -->
+  <rect x="330" y="248" width="36" height="80" rx="10" fill="#111827" stroke="#C9A84C" stroke-width="3"/>
+  <rect x="658" y="248" width="36" height="80" rx="10" fill="#111827" stroke="#C9A84C" stroke-width="3"/>
+  <circle cx="348" cy="272" r="8" fill="#00D4AA"/>
+  <circle cx="676" cy="272" r="8" fill="#00D4AA"/>
+  <!-- Eyes -->
+  <rect x="386" y="248" width="100" height="72" rx="36" fill="#0A0E1A" stroke="#00D4AA" stroke-width="4"/>
+  <rect x="538" y="248" width="100" height="72" rx="36" fill="#0A0E1A" stroke="#00D4AA" stroke-width="4"/>
+  <circle cx="436" cy="284" r="26" fill="#0D1420" stroke="#C9A84C" stroke-width="2"/>
+  <circle cx="588" cy="284" r="26" fill="#0D1420" stroke="#C9A84C" stroke-width="2"/>
+  <circle cx="436" cy="284" r="14" fill="#FF2020" opacity="0.95"/>
+  <circle cx="588" cy="284" r="14" fill="#FF2020" opacity="0.95"/>
+  <circle cx="436" cy="284" r="6" fill="#FF8080"/>
+  <circle cx="588" cy="284" r="6" fill="#FF8080"/>
+  <!-- Eye crosshairs -->
+  <line x1="398" y1="284" x2="416" y2="284" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="456" y1="284" x2="474" y2="284" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="436" y1="256" x2="436" y2="270" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="436" y1="298" x2="436" y2="312" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="550" y1="284" x2="568" y2="284" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="608" y1="284" x2="626" y2="284" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="588" y1="256" x2="588" y2="270" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="588" y1="298" x2="588" y2="312" stroke="#C9A84C" stroke-width="2"/>
+  <!-- Mouth bar -->
+  <rect x="392" y="350" width="240" height="40" rx="10" fill="#0A0E1A" stroke="#C9A84C" stroke-width="2"/>
+  <rect x="402" y="358" width="30" height="24" rx="4" fill="#00D4AA" opacity="0.9"/>
+  <rect x="438" y="358" width="44" height="24" rx="4" fill="#C9A84C" opacity="0.8"/>
+  <rect x="490" y="358" width="20" height="24" rx="4" fill="#00D4AA" opacity="0.5"/>
+  <rect x="518" y="358" width="34" height="24" rx="4" fill="#FF4444" opacity="0.7"/>
+  <rect x="560" y="358" width="26" height="24" rx="4" fill="#00D4AA" opacity="0.6"/>
+  <rect x="594" y="358" width="28" height="24" rx="4" fill="#C9A84C" opacity="0.4"/>
+  <!-- Body -->
+  <rect x="348" y="450" width="328" height="220" rx="22" fill="#111827" stroke="#00D4AA" stroke-width="5"/>
+  <!-- Chest panel -->
+  <rect x="376" y="472" width="272" height="140" rx="12" fill="#0A0E1A" stroke="#C9A84C" stroke-width="2"/>
+  <!-- Candles -->
+  <line x1="400" y1="480" x2="400" y2="600" stroke="#FF4444" stroke-width="2"/>
+  <rect x="392" y="495" width="16" height="36" fill="#FF4444"/>
+  <line x1="432" y1="478" x2="432" y2="595" stroke="#00D4AA" stroke-width="2"/>
+  <rect x="424" y="485" width="16" height="30" fill="#00D4AA"/>
+  <line x1="464" y1="482" x2="464" y2="598" stroke="#FF4444" stroke-width="2"/>
+  <rect x="456" y="492" width="16" height="32" fill="#FF4444"/>
+  <line x1="496" y1="476" x2="496" y2="592" stroke="#00D4AA" stroke-width="2"/>
+  <rect x="488" y="480" width="16" height="34" fill="#00D4AA"/>
+  <line x1="528" y1="470" x2="528" y2="585" stroke="#00D4AA" stroke-width="2"/>
+  <rect x="520" y="474" width="16" height="30" fill="#00D4AA"/>
+  <line x1="560" y1="464" x2="560" y2="578" stroke="#FF4444" stroke-width="2"/>
+  <rect x="552" y="470" width="16" height="26" fill="#FF4444"/>
+  <line x1="592" y1="458" x2="592" y2="572" stroke="#00D4AA" stroke-width="2"/>
+  <rect x="584" y="462" width="16" height="28" fill="#00D4AA"/>
+  <line x1="624" y1="452" x2="624" y2="565" stroke="#00D4AA" stroke-width="2"/>
+  <rect x="616" y="456" width="16" height="26" fill="#00D4AA"/>
+  <!-- Trend line -->
+  <polyline points="400,525 432,512 464,516 496,504 528,494 560,484 592,474 624,463" fill="none" stroke="#C9A84C" stroke-width="3" stroke-dasharray="6 3"/>
+  <!-- Status lights -->
+  <circle cx="390" cy="622" r="9" fill="#00D4AA" opacity="0.9"/>
+  <circle cx="416" cy="622" r="9" fill="#C9A84C" opacity="0.8"/>
+  <circle cx="442" cy="622" r="9" fill="#00D4AA" opacity="0.5"/>
+  <!-- Arms -->
+  <rect x="258" y="458" width="88" height="175" rx="18" fill="#111827" stroke="#00D4AA" stroke-width="3"/>
+  <rect x="678" y="458" width="88" height="175" rx="18" fill="#111827" stroke="#00D4AA" stroke-width="3"/>
+  <rect x="272" y="478" width="60" height="44" rx="8" fill="#0A0E1A" stroke="#C9A84C" stroke-width="2"/>
+  <rect x="692" y="478" width="60" height="44" rx="8" fill="#0A0E1A" stroke="#C9A84C" stroke-width="2"/>
+  <!-- Hand grips -->
+  <rect x="252" y="630" width="100" height="36" rx="14" fill="#1C2340" stroke="#00D4AA" stroke-width="3"/>
+  <rect x="672" y="630" width="100" height="36" rx="14" fill="#1C2340" stroke="#00D4AA" stroke-width="3"/>
+  <!-- Legs -->
+  <rect x="390" y="670" width="96" height="110" rx="14" fill="#111827" stroke="#00D4AA" stroke-width="3"/>
+  <rect x="538" y="670" width="96" height="110" rx="14" fill="#111827" stroke="#00D4AA" stroke-width="3"/>
+  <!-- Feet -->
+  <rect x="374" y="772" width="128" height="36" rx="14" fill="#1C2340" stroke="#C9A84C" stroke-width="3"/>
+  <rect x="522" y="772" width="128" height="36" rx="14" fill="#1C2340" stroke="#C9A84C" stroke-width="3"/>
+  <!-- MTA text -->
+  <text x="512" y="878" text-anchor="middle" font-family="Courier New, monospace" font-size="88" font-weight="700" fill="#C9A84C" letter-spacing="18">MTA</text>
+  <!-- SNIPER text -->
+  <text x="512" y="944" text-anchor="middle" font-family="Courier New, monospace" font-size="52" font-weight="700" fill="#00D4AA" letter-spacing="16">SNIPER</text>
+  <!-- Corner marks -->
+  <polyline points="110,140 110,110 140,110" fill="none" stroke="#C9A84C" stroke-width="4"/>
+  <polyline points="914,140 914,110 884,110" fill="none" stroke="#C9A84C" stroke-width="4"/>
+  <polyline points="110,800 110,830 140,830" fill="none" stroke="#C9A84C" stroke-width="4"/>
+  <polyline points="914,800 914,830 884,830" fill="none" stroke="#C9A84C" stroke-width="4"/>
+</svg>

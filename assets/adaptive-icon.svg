@@ -1,0 +1,81 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+  <!-- No background — Android adds its own with backgroundColor:#0A0E1A -->
+  <!-- Scope rings -->
+  <circle cx="512" cy="440" r="390" fill="none" stroke="#00D4AA" stroke-width="4" opacity="0.4" stroke-dasharray="10 7"/>
+  <circle cx="512" cy="440" r="300" fill="none" stroke="#C9A84C" stroke-width="3" opacity="0.4" stroke-dasharray="6 5"/>
+  <line x1="80" y1="440" x2="330" y2="440" stroke="#00D4AA" stroke-width="3" opacity="0.4"/>
+  <line x1="694" y1="440" x2="944" y2="440" stroke="#00D4AA" stroke-width="3" opacity="0.4"/>
+  <line x1="512" y1="80" x2="512" y2="255" stroke="#00D4AA" stroke-width="3" opacity="0.4"/>
+  <line x1="512" y1="580" x2="512" y2="680" stroke="#00D4AA" stroke-width="3" opacity="0.4"/>
+  <!-- Neck -->
+  <rect x="462" y="385" width="100" height="50" rx="8" fill="#1C2340" stroke="#00D4AA" stroke-width="3"/>
+  <!-- Head -->
+  <rect x="362" y="195" width="300" height="200" rx="28" fill="#1C2340" stroke="#00D4AA" stroke-width="5"/>
+  <!-- Antenna -->
+  <rect x="498" y="143" width="28" height="58" rx="8" fill="#00D4AA" opacity="0.9"/>
+  <circle cx="512" cy="133" r="22" fill="#C9A84C"/>
+  <circle cx="512" cy="133" r="12" fill="#FF4444"/>
+  <!-- Ears -->
+  <rect x="330" y="232" width="36" height="80" rx="10" fill="#111827" stroke="#C9A84C" stroke-width="3"/>
+  <rect x="658" y="232" width="36" height="80" rx="10" fill="#111827" stroke="#C9A84C" stroke-width="3"/>
+  <circle cx="348" cy="256" r="8" fill="#00D4AA"/>
+  <circle cx="676" cy="256" r="8" fill="#00D4AA"/>
+  <!-- Eyes -->
+  <rect x="386" y="232" width="100" height="72" rx="36" fill="#0A0E1A" stroke="#00D4AA" stroke-width="4"/>
+  <rect x="538" y="232" width="100" height="72" rx="36" fill="#0A0E1A" stroke="#00D4AA" stroke-width="4"/>
+  <circle cx="436" cy="268" r="26" fill="#0D1420" stroke="#C9A84C" stroke-width="2"/>
+  <circle cx="588" cy="268" r="26" fill="#0D1420" stroke="#C9A84C" stroke-width="2"/>
+  <circle cx="436" cy="268" r="14" fill="#FF2020" opacity="0.95"/>
+  <circle cx="588" cy="268" r="14" fill="#FF2020" opacity="0.95"/>
+  <circle cx="436" cy="268" r="6" fill="#FF8080"/>
+  <circle cx="588" cy="268" r="6" fill="#FF8080"/>
+  <line x1="398" y1="268" x2="416" y2="268" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="456" y1="268" x2="474" y2="268" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="436" y1="240" x2="436" y2="254" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="436" y1="282" x2="436" y2="296" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="550" y1="268" x2="568" y2="268" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="608" y1="268" x2="626" y2="268" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="588" y1="240" x2="588" y2="254" stroke="#C9A84C" stroke-width="2"/>
+  <line x1="588" y1="282" x2="588" y2="296" stroke="#C9A84C" stroke-width="2"/>
+  <!-- Mouth -->
+  <rect x="392" y="334" width="240" height="40" rx="10" fill="#0A0E1A" stroke="#C9A84C" stroke-width="2"/>
+  <rect x="402" y="342" width="28" height="24" rx="4" fill="#00D4AA" opacity="0.9"/>
+  <rect x="436" y="342" width="42" height="24" rx="4" fill="#C9A84C" opacity="0.8"/>
+  <rect x="486" y="342" width="20" height="24" rx="4" fill="#FF4444" opacity="0.7"/>
+  <rect x="514" y="342" width="32" height="24" rx="4" fill="#00D4AA" opacity="0.6"/>
+  <rect x="554" y="342" width="66" height="24" rx="4" fill="#C9A84C" opacity="0.4"/>
+  <!-- Body -->
+  <rect x="348" y="435" width="328" height="210" rx="22" fill="#111827" stroke="#00D4AA" stroke-width="5"/>
+  <rect x="376" y="456" width="272" height="130" rx="12" fill="#0A0E1A" stroke="#C9A84C" stroke-width="2"/>
+  <!-- Chart candles -->
+  <line x1="404" y1="464" x2="404" y2="576" stroke="#FF4444" stroke-width="2"/>
+  <rect x="396" y="478" width="16" height="34" fill="#FF4444"/>
+  <line x1="436" y1="462" x2="436" y2="572" stroke="#00D4AA" stroke-width="2"/>
+  <rect x="428" y="468" width="16" height="28" fill="#00D4AA"/>
+  <line x1="468" y1="465" x2="468" y2="574" stroke="#FF4444" stroke-width="2"/>
+  <rect x="460" y="474" width="16" height="30" fill="#FF4444"/>
+  <line x1="500" y1="458" x2="500" y2="568" stroke="#00D4AA" stroke-width="2"/>
+  <rect x="492" y="462" width="16" height="32" fill="#00D4AA"/>
+  <line x1="532" y1="452" x2="532" y2="560" stroke="#00D4AA" stroke-width="2"/>
+  <rect x="524" y="456" width="16" height="28" fill="#00D4AA"/>
+  <line x1="564" y1="446" x2="564" y2="554" stroke="#FF4444" stroke-width="2"/>
+  <rect x="556" y="452" width="16" height="24" fill="#FF4444"/>
+  <line x1="596" y1="440" x2="596" y2="548" stroke="#00D4AA" stroke-width="2"/>
+  <rect x="588" y="444" width="16" height="26" fill="#00D4AA"/>
+  <line x1="628" y1="434" x2="628" y2="542" stroke="#00D4AA" stroke-width="2"/>
+  <rect x="620" y="438" width="16" height="24" fill="#00D4AA"/>
+  <polyline points="404,508 436,496 468,500 500,488 532,478 564,468 596,458 628,447" fill="none" stroke="#C9A84C" stroke-width="3" stroke-dasharray="6 3"/>
+  <!-- Arms -->
+  <rect x="258" y="442" width="88" height="165" rx="18" fill="#111827" stroke="#00D4AA" stroke-width="3"/>
+  <rect x="678" y="442" width="88" height="165" rx="18" fill="#111827" stroke="#00D4AA" stroke-width="3"/>
+  <rect x="252" y="604" width="100" height="34" rx="14" fill="#1C2340" stroke="#00D4AA" stroke-width="3"/>
+  <rect x="672" y="604" width="100" height="34" rx="14" fill="#1C2340" stroke="#00D4AA" stroke-width="3"/>
+  <!-- Legs -->
+  <rect x="390" y="645" width="96" height="100" rx="14" fill="#111827" stroke="#00D4AA" stroke-width="3"/>
+  <rect x="538" y="645" width="96" height="100" rx="14" fill="#111827" stroke="#00D4AA" stroke-width="3"/>
+  <rect x="374" y="738" width="128" height="34" rx="14" fill="#1C2340" stroke="#C9A84C" stroke-width="3"/>
+  <rect x="522" y="738" width="128" height="34" rx="14" fill="#1C2340" stroke="#C9A84C" stroke-width="3"/>
+  <!-- Text -->
+  <text x="512" y="840" text-anchor="middle" font-family="Courier New, monospace" font-size="88" font-weight="700" fill="#C9A84C" letter-spacing="18">MTA</text>
+  <text x="512" y="906" text-anchor="middle" font-family="Courier New, monospace" font-size="52" font-weight="700" fill="#00D4AA" letter-spacing="16">SNIPER</text>
+</svg>
